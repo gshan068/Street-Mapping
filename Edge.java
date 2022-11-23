@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 //Website I used for the distance formula: https://en.wikipedia.org/wiki/Haversine_formula
 /*This class is about the edge between two nodes (or locations). It includes the method that calculates the 
  * distance between two locations.
