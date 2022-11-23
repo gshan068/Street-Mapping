@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 /*This is the class that set up the JPanel of the map. It includes drawing the map and the shortest path between
  * two locations.
  */
