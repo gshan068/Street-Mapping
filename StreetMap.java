@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 /* This class includes the main method that process the command line argument and show up the map by using
  * JFrame.
  */
