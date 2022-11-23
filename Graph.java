@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 //This is the major class that build up the map (or graph). 
 
 import java.util.Hashtable;
