@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 //This class is about the nodes (or location in the map).
 
 import java.util.LinkedList;
